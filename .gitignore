@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.egg-info/
+.ipynb_checkpoints/
+
+# Cursor
+.cursor/
+
+# Large / generated data (clone or download separately)
+source_data/
+outputs/
+data/
+models/
+vendor/
+
+# OS
+.DS_Store
